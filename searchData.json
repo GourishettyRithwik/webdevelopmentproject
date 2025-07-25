@@ -1,0 +1,17 @@
+[
+  {
+    "title": "HTML Basics",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "snippet": "HTML is the language of the web."
+  },
+  {
+    "title": "Learn CSS",
+    "url": "https://www.w3schools.com/css/",
+    "snippet": "CSS styles your content beautifully."
+  },
+  {
+    "title": "JavaScript Guide",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "snippet": "JS is the programming language of the web."
+  }
+]
